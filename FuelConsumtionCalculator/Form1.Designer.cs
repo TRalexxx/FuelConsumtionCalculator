@@ -32,8 +32,8 @@ namespace FuelConsumtionCalculator
         {
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.MaximumSize = new System.Drawing.Size(550, 600);
-            this.MinimumSize = new System.Drawing.Size(550, 600);
+            this.MaximumSize = new System.Drawing.Size(420, 450);
+            this.MinimumSize = new System.Drawing.Size(420, 450);
             this.Name = "Fuel calculator";
             this.Text = "Fuel calculator";
             this.Load += new System.EventHandler(this.Form1_Load);
